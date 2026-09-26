@@ -16,8 +16,8 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:      Build
-role:      Information Technology Student @ KMITL (Year 2)
+name:      Toby
+role:      Information Technology Student @ KMITL (Year 3)
 intern:    Application Support Engineer
 location:  Thailand 🇹🇭
 focus:     [ Network, Infrastructure, DevOps ]
@@ -26,10 +26,8 @@ learning:  [ Kubernetes, Network Automation, Observability ]
 ```
 
 - 🎓 กำลังเรียน **Information Technology** ที่ King Mongkut's Institute of Technology Ladkrabang
-- 🛠️ ฝึกงานสาย **Application Support** — bug investigation, ticket analysis, Knowledge Base
 - 🌐 สนใจงาน **Network / Infrastructure / DevOps** เป็นหลัก ชอบจับ Routing, Firewall และ Monitoring Stack
-- 🧪 มี Home Lab ของตัวเองไว้ลองของ — Proxmox, TrueNAS, GNS3, Raspberry Pi
-- ⚡ ชอบสร้างของที่เอาไปใช้ได้จริงมากกว่าของที่ดูดีอย่างเดียว
+- 🧪 มี Lab ของตัวเองไว้ลองของ — Proxmox, TrueNAS, GNS3, Raspberry Pi
 
 ---
 
@@ -38,7 +36,7 @@ learning:  [ Kubernetes, Network Automation, Observability ]
 ### 🌐 Networking
 ![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TP-Link](https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-00A8E8?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-00A8E8?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 ![Routing](https://img.shields.io/badge/Routing-203a43?style=flat-square)
 ![Subnetting](https://img.shields.io/badge/Subnetting-203a43?style=flat-square)
@@ -47,7 +45,7 @@ learning:  [ Kubernetes, Network Automation, Observability ]
 ![NAT](https://img.shields.io/badge/NAT-203a43?style=flat-square)
 ![ACL](https://img.shields.io/badge/ACL-203a43?style=flat-square)
 ![VRF](https://img.shields.io/badge/VRF-203a43?style=flat-square)
-![MPLS](https://img.shields.io/badge/MPLS_(Basic)-203a43?style=flat-square)
+![MPLS](https://img.shields.io/badge/MPLS_%28Basic%29-203a43?style=flat-square)
 ![Network Automation](https://img.shields.io/badge/Network_Automation-203a43?style=flat-square)
 ![Network Troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-203a43?style=flat-square)
 
@@ -100,22 +98,24 @@ learning:  [ Kubernetes, Network Automation, Observability ]
 
 <div align="center">
 
+<!-- ปลด comment ด้านล่างถ้าอยากโชว์การ์ด stats + top langs
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TobyNaja&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobyNaja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7" />
-
 <br/>
+-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TobyNaja&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
+<img src="https://streak-stats.demolab.com/?user=TobyNaja&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
 
+<!-- ปลด comment ด้านล่างถ้าอยากโชว์กราฟ activity
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TobyNaja&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true" width="95%" />
+-->
 
 </div>
 
 ---
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -126,16 +126,18 @@ learning:  [ Kubernetes, Network Automation, Observability ]
 
 > 💡 Pin repo ที่อยากอวดได้ที่ **Customize your pins** บนหน้าโปรไฟล์
 
----
+--- -->
 
 ## 🤝 Connect
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- ใส่ IG username ต่อท้าย URL ด้านล่าง -->
+<a href="https://instagram.com/tobynaja"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:toybbnn123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/TobyNaja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<!-- Discord: ช่อง users/ ต้องเป็น numeric ID (Developer Mode -> คลิกขวาโปรไฟล์ -> Copy User ID) -->
+<img src="https://img.shields.io/badge/Discord-tobynaja-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
